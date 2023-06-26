@@ -1,10 +1,9 @@
-# This project is under construction
+This project is under construction
+------
 
 # qdii-value-node
 
-------
-
-![License](https://img.shields.io/github/license/xiaopc/qdii-value)
+![License](https://img.shields.io/github/license/xiaopc/qdii-value-node)
 
 [qdii-value](https://github.com/xiaopc/qdii-value) 的 Node.js 实现.
 
@@ -20,12 +19,13 @@
     - [ ] MSCI
     - [ ] Bloomberg
 - [x] 行情接口
-| 接口   | 搜索  | 实时  | 历史  |
-|--------|-------|-------|-------|
-| 新浪   |- [x] .|- [x] .|- [ ] .|
-| Google |- [x] .|- [x] .|- [x] *|
-| 英为   |- [ ] .|- [ ] .|- [ ] .|
-| MSN    |- [ ] .|- [ ] .|- [ ] .|
-| 雅虎   |- [ ] .|- [ ] .|- [ ] .|
+
+| 接口   | 搜索 | 实时 | 历史 |
+|-------|------|------|------|
+| 新浪   |  ☑  |  ☑  |  ☐  |
+| Google |  ☑  |  ☑  |  ☑* |
+| 英为   |  ☐  |  ☐  |  ☐  |
+| MSN    |  ☐  |  ☐  |  ☐  |
+| 雅虎   |  ☐  |  ☐  |  ☐  |
 
 \*：未测试
